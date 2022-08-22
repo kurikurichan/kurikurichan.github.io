@@ -3924,3 +3924,9 @@ input, select, textarea {
 	width: 3rem;
     margin: .7rem;
 }
+
+.profile-img {
+	border-radius: 100%;
+	width: 150px;
+	height: 150px;
+}
