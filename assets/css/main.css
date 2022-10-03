@@ -3948,6 +3948,7 @@ input, select, textarea {
 .profile-img {
 	border-radius: 100%;
 	width: 200px;
+	aspect-ratio: auto;
 	/* height: 150px; */
 }
 
