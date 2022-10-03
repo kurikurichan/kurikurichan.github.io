@@ -3947,6 +3947,25 @@ input, select, textarea {
 
 .profile-img {
 	border-radius: 100%;
-	width: 150px;
-	height: 150px;
+	width: 200px;
+	/* height: 150px; */
 }
+
+@media screen and (max-width: 1280px) {
+	.profile-img {
+		display: none;
+	}
+}
+
+/* .profile-container {
+	overflow: hidden;
+	height: 150px;
+	width: 150px;
+	display: inline-block;
+
+}
+
+.profile-img .profile-container {
+	transition: all .2s ease;
+	vertical-align: middle;
+} */
