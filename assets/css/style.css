@@ -1533,3 +1533,8 @@ footer .credits a {
   border-radius: 18px;
   padding: 8px;
 }
+
+.testimonial-title {
+  position: relative;
+  color: white;
+}
